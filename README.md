@@ -1,5 +1,7 @@
 # React + Vite
 
+This is a basic dice game made using react and for styling styled components has been used. 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
